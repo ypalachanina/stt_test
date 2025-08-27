@@ -1,0 +1,5 @@
+git
+ffmpeg
+build-essential
+python3-dev
+cmake

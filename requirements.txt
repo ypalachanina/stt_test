@@ -1,0 +1,6 @@
+streamlit
+streamlit-audiorecorder
+azure-cognitiveservices-speech
+pydub
+google-cloud-speech
+google-api-core
